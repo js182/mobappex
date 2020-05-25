@@ -1,0 +1,88 @@
+{
+  "@@locale": "de",
+  "@@last_modified": "2020-05-25T11:22:57.416415",
+  "heyWorld": "Hallo Wetl",
+  "@heyWorld": {
+    "description": "deutshe wort begruesung",
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Einstellungen",
+  "@settings": {
+    "description": "einstellungen aendern",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "Start",
+  "@home": {
+    "description": "home",
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuebutton": "Weiter >",
+  "@continuebutton": {
+    "description": "continuebutton",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aura": "Aura",
+  "@aura": {
+    "description": "aura",
+    "type": "text",
+    "placeholders": {}
+  },
+  "seat": "Sitz",
+  "@seat": {
+    "description": "seat",
+    "type": "text",
+    "placeholders": {}
+  },
+  "music": "Musik",
+  "@music": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountdetails": "Account",
+  "@accountdetails": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "support": "Hilfe",
+  "@support": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "starttutorial": "Starte tutorial",
+  "@starttutorial": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "Sprache",
+  "@language": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tutorial": "Tutorial",
+  "@tutorial": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "startsnoozing": "Snoozen",
+  "@startsnoozing": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}
